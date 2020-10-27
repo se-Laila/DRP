@@ -9,8 +9,8 @@
 
 ### Project Motivation
 
-The motivation behind this project is to apply datat engineering to analyze data proivded by Figure Eight. This analysis includes
-creating an ETL pipeline to prepare the data and store it in a local database to be then used by the ML pipleine to train the classifier and save the results. After that, the model will be presented in an interactive web page. The user will access the page to enter a message that will be automatically categorized by the model.
+The motivation behind this project is to apply data engineering to analyze data proivded by Figure Eight. This analysis includes
+creating an ETL pipeline to prepare the data and store it in a local database to be then used by the ML pipeline to train the classifier and save the results. After that, the model will be presented in an interactive web page. The user will access the page to enter a message that will be automatically categorized by the model.
 
 
 ### File Descriptions
@@ -25,7 +25,10 @@ There are 3 folders here:
 
 
 ### Results
-The results can be found here  http://0.0.0.0:3001/, after running the application locally on your workstation
+The results can be found here  http://0.0.0.0:3001/, after running the application locally on your workstation.
+
+You will have a web app as shown in below:
+
 
 
 
