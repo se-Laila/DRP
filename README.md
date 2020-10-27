@@ -41,12 +41,12 @@ run.py: a Flask web app that allows the user to use the model
 The results can be found here  http://0.0.0.0:3001/, after running the application locally on your workstation.
 
 The web app is as shown below, where you enter any message in the text box, then click: Classify Message button:
-[!App](../master/images/1.png)
+![App](../master/images/1.png)
 
 Then the app will classify the message into one or more categories. This can be used by the support agencies to identify the right actions. For example, the message entered is: Please help. We need Food, water and medical aid.
 
 The classifications determined by the model are: *Related, Request, Aid Related, Medical Help, Water, Food,and Direct Report.*
-[!result](../master/images/3.png)
+![result](../master/images/3.png)
 
 
 
