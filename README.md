@@ -50,11 +50,11 @@ In addition, general visuals on the data are displayed:
 
 
 2. The second graph shows the categories of the messages with their count
-![App](../master/images/V2.png)
+![App](../master/images/V3.png)
 
 
 3. The graph below shows the count of messages that have specific words
-![App](../master/images/V3.png)
+![App](../master/images/V2.png)
 
 
 
