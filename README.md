@@ -101,6 +101,8 @@ Run the following command in the app's directory to run your web app:
 
 Go to http://0.0.0.0:3001/
 
+and the git repository is: https://github.com/se-Laila/DRP.git
+
 
 ### Licensing, Authors, Acknowledgements
 Credit goes to Figure Eight for the data and Udacity for the HTML pages. 
