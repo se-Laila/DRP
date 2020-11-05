@@ -44,6 +44,19 @@ The web app is as shown below, where you enter any message in the text box, then
 
 ![App](../master/images/1.png)
 
+In addition, general visuals on the data are displayed:
+1. The first graph shows the genres of the messages with their count
+![App](../master/images/V1.png)
+
+
+2. The second graph shows the categories of the messages with their count
+![App](../master/images/V2.png)
+
+
+3. The graph below shows the count of messages that have specific words
+![App](../master/images/V3.png)
+
+
 
 Then the app will classify the message into one or more categories. This can be used by the support agencies to identify the right actions. For example, the message entered is: Please help. We need Food, water and medical aid.
 
